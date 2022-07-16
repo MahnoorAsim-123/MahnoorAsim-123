@@ -1,5 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)<h1 align="center">Hi 👋, I'm Mahnoor Asim</h1>
 <h3 align="center">Software Engineer</h3>
+<h3 align="center">A passionate MERN STACK developer from Pakistan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoorasim-123&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoorasim-123" /> </p>
@@ -31,3 +32,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahnoorasim-123&show_icons=true&locale=en" alt="mahnoorasim-123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoorasim-123&" alt="mahnoorasim-123" /></p>
+
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
