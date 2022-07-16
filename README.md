@@ -26,8 +26,8 @@
 
 [![Mahnoor's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MahnoorAsim-123&&theme=xcode)](https://github.com/MahnoorAsim-123)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahnoorAsim-123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MahnoorAsim-123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahnoorAsim-123&show_icons=true&locale=en&theme=tokyonight" alt="MahnoorAsim-123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahnoorAsim-123&&theme=tokyonight" alt="MahnoorAsim-123" /></p>
