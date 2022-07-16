@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahnoorasim-123" alt="mahnoorasim-123" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahnoorAsim-123](https://github.com/MahnoorAsim-123)
@@ -18,7 +20,7 @@
 
 - ⚡ Fun fact **Loving to write**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
