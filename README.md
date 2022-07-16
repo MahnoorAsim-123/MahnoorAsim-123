@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahnoorAsim-123](https://github.com/MahnoorAsim-123)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Android , MERN**
 
 - 📫 How to reach me **mahnoorasim440@gmail.com**
 
