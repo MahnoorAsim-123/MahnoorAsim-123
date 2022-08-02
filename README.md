@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Mobile Applications**
+- 🔭 I’m currently working on **Web Applications**
 
 - 🌱 I’m currently learning **React Native**
 
