@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Web Applications**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **Android , MERN**
 
